@@ -4,6 +4,6 @@ Sebuah aplikasi dengan fitur login
 Alur fitur Login :
 1. Memasukkan email dan password
 2. Memvalidasi masukan
-3. Menamoplkan tulisan beranda
+3. Menamoplkan tulisan Home
 
  
